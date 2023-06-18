@@ -1,6 +1,6 @@
 ## 欢迎来到PlanetStudio的大家族！ 👋
 ### 这里储存的是PlanetStudio下属服务器的源码
-####切记千万千万不要发出去不然后果自负！！！
+切记千万千万不要发出去不然后果自负！！！
 🙋‍♀️ Nukkit Server Dev Team
 🌈 发邮件至hr@planetgames.top 说明来历
 👩‍💻 docs.planetgames.top可以查看服务器的玩家规则文档
