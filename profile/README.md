@@ -6,9 +6,9 @@
 
 > 🌈 想加入我们？没问题请把简历投送至: hr@planetgames.top
 
-> 👩‍💻 docs.planetgames.top可以查看服务器的玩家规则文档
+> 👩‍💻 查看服务器规则文档: docs.planetgames.top
 
-> 🍿 有趣的事实-面条
+> 🍿 早上吃什么建议: 面条
 
 > 🧙 记住，你微小的力量一样可以做大事情！
 
