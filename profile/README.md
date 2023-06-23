@@ -1,12 +1,9 @@
-# 欢迎来到PlanetStudio的大家族！ 👋
-## 这里储存的是PlanetStudio下属服务器的源码
-### 切记千万千万不要发出去不然后果自负！！！
+# 欢迎来到WindX Devs的大家族！ 👋
+## 这里储存的是希望更多的网易新手开发者们更快入手网易
 
-> 🙋‍♀️ Nukkit服务器开发团队
+> 🙋‍♀️ 网易服务器开发团队
 
-> 🌈 想加入我们？没问题请把简历投送至: hr@planetgames.top
-
-> 👩‍💻 查看服务器规则文档: docs.planetgames.top
+> 🌈 想加入我们？没问题请把简历投送至: wxdhr@planetgames.top
 
 > 🍿 早上吃什么建议: 面条
 
